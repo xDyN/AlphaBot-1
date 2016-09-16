@@ -1,6 +1,7 @@
 # AlphaBot
 
-A bot for PokemonGo, used at your own risk.
+The project development is now stopped because of some tech problem.
+You can fork this project and modify it by yourself.
 
 ## Features
 - [x] Use magic to catch pokemons
